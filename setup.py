@@ -23,8 +23,8 @@ setup(
     install_requires = [
         'six',
         'lxml',
-        'Flask==0.10.1',
-        'Flask-Admin==1.4.0',
+        'Flask==2.1.1',
+        'Flask-Admin==1.6.0',
         'Flask-SQLAlchemy==2.1',
         'Flask-WTF==0.12',
         'WTForms==2.1',
